@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raybool.github.io/motivfeed-ai/sitemap.xml
